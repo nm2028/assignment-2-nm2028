@@ -43,7 +43,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585404437866</updated>
-      <workItem from="1585404439435" duration="1291000" />
+      <workItem from="1585404439435" duration="1554000" />
     </task>
     <task id="LOCAL-00001" summary="create a node class">
       <created>1585405501475</created>
@@ -59,7 +59,28 @@
       <option name="project" value="LOCAL" />
       <updated>1585405605367</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="create a MyPriorityQueue class of problem3">
+      <created>1585405770939</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1585405770939</updated>
+    </task>
+    <task id="LOCAL-00004" summary="create a MyMain class of problem5">
+      <created>1585405853981</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1585405853981</updated>
+    </task>
+    <task id="LOCAL-00005" summary="create a Student class of problem5">
+      <created>1585405932896</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1585405932896</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -72,19 +93,25 @@
     <MESSAGE value="create MyBinarySearchTree class" />
     <MESSAGE value="create MyMain class of problem2" />
     <MESSAGE value="create a Node class of problem3" />
-    <option name="LAST_COMMIT_MESSAGE" value="create a Node class of problem3" />
+    <MESSAGE value="create a MyPriorityQueue class of problem3" />
+    <MESSAGE value="create a node class of problem3" />
+    <MESSAGE value="create a MyMain class of problem5" />
+    <MESSAGE value="create a MyCircularQueue class of problem5" />
+    <MESSAGE value="create a Student class of problem5" />
+    <MESSAGE value="create a Node class of problem5" />
+    <option name="LAST_COMMIT_MESSAGE" value="create a Node class of problem5" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="336" y="31" key="CommitChangelistDialog2" timestamp="1585405897337">
+    <state x="336" y="31" key="CommitChangelistDialog2" timestamp="1585405957434">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="336" y="31" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1585405897337" />
-    <state x="361" y="169" key="Vcs.Push.Dialog.v2" timestamp="1585405714046">
+    <state x="336" y="31" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1585405957434" />
+    <state x="361" y="169" key="Vcs.Push.Dialog.v2" timestamp="1585405988900">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="169" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1585405714046" />
+    <state x="361" y="169" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1585405988900" />
   </component>
 </project>
