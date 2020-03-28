@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9f44ecf7-117e-4acf-bc12-4b293424bf0f" name="Default Changelist" comment="create MyBinarySearchTree class">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-2-nm2029.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem1/main/MyMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem1/main/MyMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem1/mybst/MyBinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem1/mybst/MyBinarySearchTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem1/node/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem1/node/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem2/main/MyMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem2/main/MyMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem3/main/MyMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem3/main/MyMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem3/myqueue/MyPriorityQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem3/myqueue/MyPriorityQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem3/node/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem3/node/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem4/main/MyMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem4/main/MyMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem4/myqueue/MyQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem4/myqueue/MyQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem5/circularqueue/MyCircularQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem5/circularqueue/MyCircularQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem5/main/MyMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem5/main/MyMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem5/node/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem5/node/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem5/student/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem5/student/Student.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ZlCkcJCiIN3aAT5dYYNuCowLXB" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../LinkedListLab" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f44ecf7-117e-4acf-bc12-4b293424bf0f" name="Default Changelist" comment="" />
+      <created>1585404437866</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585404437866</updated>
+      <workItem from="1585404439435" duration="1006000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="create MyMain class of problem1" />
+    <MESSAGE value="create MyBinarySearchTree class" />
+    <option name="LAST_COMMIT_MESSAGE" value="create MyBinarySearchTree class" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="336" y="31" key="CommitChangelistDialog2" timestamp="1585405443897">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="336" y="31" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1585405443897" />
+  </component>
+</project>
