@@ -43,7 +43,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585404437866</updated>
-      <workItem from="1585404439435" duration="2198000" />
+      <workItem from="1585404439435" duration="2440000" />
     </task>
     <task id="LOCAL-00001" summary="create a node class">
       <created>1585405501475</created>
@@ -115,7 +115,21 @@
       <option name="project" value="LOCAL" />
       <updated>1585406498732</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="create Node class of problem5">
+      <created>1585406670332</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1585406670332</updated>
+    </task>
+    <task id="LOCAL-00012" summary="create MyQueue class of problem4">
+      <created>1585406783126</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1585406783126</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,6 +156,7 @@
     <MESSAGE value="create MyMain class of problem3" />
     <MESSAGE value="create Node class of problem3" />
     <MESSAGE value="create Node class of problem5" />
+    <MESSAGE value="create MyQueue class of problem4" />
     <MESSAGE value="create MyCircularQueue class of problem5" />
     <option name="LAST_COMMIT_MESSAGE" value="create MyCircularQueue class of problem5" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
@@ -149,13 +164,13 @@
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="336" y="31" key="CommitChangelistDialog2" timestamp="1585406702985">
+    <state x="336" y="31" key="CommitChangelistDialog2" timestamp="1585406819651">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="336" y="31" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1585406702985" />
-    <state x="361" y="169" key="Vcs.Push.Dialog.v2" timestamp="1585406719199">
+    <state x="336" y="31" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1585406819651" />
+    <state x="361" y="169" key="Vcs.Push.Dialog.v2" timestamp="1585406837023">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="169" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1585406719199" />
+    <state x="361" y="169" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1585406837023" />
   </component>
 </project>
